@@ -11,3 +11,4 @@ $ docker-compose up -d --build
 ```
 
 Open your browser to [http://localhost:5004](http://localhost:5004)
+https://morioh.com/p/8287dbb0a50d
